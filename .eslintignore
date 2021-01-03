@@ -1,0 +1,7 @@
+**/*.js
+node_modules
+build
+/*.js
+.prettierrc
+/src/react-app-env.d.ts
+/src/reportWebVitals.ts
